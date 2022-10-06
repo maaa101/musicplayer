@@ -13,3 +13,9 @@ Install dependecies if needed <br>
 - Get music from YouTube ✅
 - Playlists ❌
 - Save button ❌
+
+Dependecies:
+- gtk
+- moviepy
+- pygame
+- pytube
